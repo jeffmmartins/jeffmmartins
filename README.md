@@ -1,7 +1,8 @@
 
 
 <h3>Sobre mim</h3>
--     Olá, eu sou o Jefferson Martins, tenho 35 anos, buscando oportunidades para atuar como desenvolvedor
+
+-    Olá, eu sou o Jefferson Martins, tenho 35 anos, buscando oportunidades para atuar como desenvolvedor
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na >Estácio</a>.
 - 🔎 Buscando oportunidades para desenvolver meus conhecimentos
@@ -14,13 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
 
 
 <h3>Onde me encontrar</h3>
