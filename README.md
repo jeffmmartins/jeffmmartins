@@ -4,7 +4,7 @@
 
 -    Olá, eu sou o Jefferson Martins, tenho 35 anos, buscando oportunidades para atuar como desenvolvedor
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na >Estácio</a>.
+- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na **Estácio**.
 - 🔎 Buscando oportunidades para desenvolver meus conhecimentos
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 
@@ -19,8 +19,8 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-martins-mendes/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Jefferson-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonmartinsmendes@gmail.com)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-martins-mendes/)](https://www.linkedin.com/in/jefferson-martins-mendes/)
+[![Gmail Badge](https://img.shields.io/badge/-Jefferson-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonmartinsmendes@gmail.com)](mailto:jeffersonmartinsmendes@gmail.com)
 
 
 <!---
