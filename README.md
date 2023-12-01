@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
 
 <h3>Sobre mim</h3>
 -     Olá, eu sou o Jefferson Martins, tenho 35 anos, buscando oportunidades para atuar como desenvolvedor
