@@ -6,7 +6,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na **Estácio**.
 - 🔎 Buscando oportunidades para desenvolver meus conhecimentos
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript** e **React**.
 
 <h3>Minhas Skills</h3>
 
