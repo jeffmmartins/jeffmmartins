@@ -2,11 +2,11 @@
 
 <h3>Sobre mim</h3>
 
--    Olá, eu sou o Jefferson Martins, tenho 35 anos, buscando oportunidades para atuar como desenvolvedor
+-    Olá, eu sou o Jefferson Martins, tenho 36 anos, buscando oportunidades para atuar como desenvolvedor
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na **Estácio**.
-- 🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, React, Bootstrap, Axios, consumo de APIs, SQL
-- 🌱 &nbsp; Aprendendo mais sobre **React** e **Python**.
+- 🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript** .
 
 <h3>Minhas Skills</h3>
 
