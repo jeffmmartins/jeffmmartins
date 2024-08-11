@@ -40,6 +40,11 @@
 
 ###
 
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-martins-mendes/)](https://www.linkedin.com/in/jefferson-martins-mendes/)
+[![Gmail Badge](https://img.shields.io/badge/-Jefferson-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonmartinsmendes@gmail.com)](mailto:jeffersonmartinsmendes@gmail.com)
+
 <!---
 jeffmmartins/jeffmmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
