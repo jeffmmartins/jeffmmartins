@@ -1,28 +1,44 @@
 
 
-<h3>Sobre mim</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
--    Olá, eu sou o Jefferson Martins, tenho 36 anos, buscando oportunidades para atuar como desenvolvedor
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na **Estácio**.
-- 🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript** .
+###
 
-<h3>Minhas Skills</h3>
+<p align="left">Olá , me chamo Jefferson Martins ,tenho 36 anos, buscando oportunidades para atuar como desenvolvedor</p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+###
 
+<h2 align="left">Sobre mim</h2>
 
-<h3>Onde me encontrar</h3>
+###
 
-[![Linkedin](https://img.shields.io/badge/-Jefferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-martins-mendes/)](https://www.linkedin.com/in/jefferson-martins-mendes/)
-[![Gmail Badge](https://img.shields.io/badge/-Jefferson-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonmartinsmendes@gmail.com)](mailto:jeffersonmartinsmendes@gmail.com)
+<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Estudando Analise e Desenvolvimento de Sistemas na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre TypeScript .</p>
 
+###
+
+<h2 align="left">Minhas Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
 
 <!---
 jeffmmartins/jeffmmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
