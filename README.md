@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Estudando Analise e Desenvolvimento de Sistemas na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre TypeScript .</p>
+<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Estudando Analise e Desenvolvimento de Sistemas na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre JAVA .</p>
 
 ###
 
