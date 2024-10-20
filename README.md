@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Cursando Engenharia de Software na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python, conhecimento básico em Kotlin<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre JAVA .</p>
+<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Cursando Engenharia de Software na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Python, conhecimento básico em Kotlin<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre C# .</p>
 
 ###
 
