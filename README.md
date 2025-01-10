@@ -12,6 +12,7 @@ Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apa
 
 💻 **Projetos:**
 *   Desenvolvimento de um aplicativo de Task Manager utilizando React.js, com o objetivo de aplicar os conhecimentos em front-end e back-end.
+*   Link do Projeto: https://task-manager-lemon-sigma.vercel.app/
 
 📚 **Em constante evolução:**
 *   Aprofundando meus conhecimentos em Java para desenvolvimento back-end e integração com meus projetos.
