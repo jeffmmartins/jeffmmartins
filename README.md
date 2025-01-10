@@ -1,20 +1,26 @@
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+🚀 Desenvolvedor de Software em Ascensão | Focado em Soluções Inovadoras
 
-###
+Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apaixonado por transformar ideias em realidade por meio do código. Atualmente no 3º período, busco oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
 
-<p align="left">Olá , me chamo Jefferson Martins ,tenho 36 anos, buscando oportunidades para atuar como desenvolvedor</p>
+🛠️ **Habilidades:**
 
-###
+*   **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Consumo de APIs.
+*   **Back-end:** SQL, Java (em aprofundamento).
+*   **Outras:** Conhecimento em C (adquirindo na faculdade).
 
-<h2 align="left">Sobre mim</h2>
+💻 **Projetos:**
+*   Desenvolvimento de um aplicativo de Task Manager utilizando React.js, com o objetivo de aplicar os conhecimentos em front-end e back-end.
 
-###
+📚 **Em constante evolução:**
+*   Aprofundando meus conhecimentos em Java para desenvolvimento back-end e integração com meus projetos.
+*   Sempre aberto a aprender novas tecnologias e ferramentas.
 
-<p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>🎓 Cursando Engenharia de Software na Estácio.<br>🔎 Buscando oportunidades para desenvolver meus conhecimentos em HTML, CSS, JavaScript, Typescript, React, Bootstrap, consumo de APIs, SQL, Conhecimento Básico em Java, conhecimento básico em Kotlin<br>📚  Estou desenvolvendo um app de Task Manager  para colocar em prática o que tenho estudado em React.js<br>🌱 Aprendendo mais sobre JAVA .</p>
+💡 **Objetivo:**
+*   Colaborar em equipes de desenvolvimento, aplicando meus conhecimentos para criar soluções de software inovadoras e de alta qualidade.
 
-###
+Vamos conectar e explorar como minhas habilidades podem agregar valor à sua equipe!
 
 <h2 align="left">Minhas Skills</h2>
 
