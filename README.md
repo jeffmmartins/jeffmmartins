@@ -6,7 +6,7 @@ Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apa
 
 🛠️ **Habilidades:**
 
-*   **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Consumo de APIs.
+*   **Front-end:** HTML, CSS, JavaScript, React, Bootstrap, Consumo de APIs.
 *   **Back-end:** SQL, Java (em aprofundamento).
 *   **Outras:** Conhecimento em C (adquirindo na faculdade).
 
@@ -30,8 +30,6 @@ Vamos conectar e explorar como minhas habilidades podem agregar valor à sua equ
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,7 +38,6 @@ Vamos conectar e explorar como minhas habilidades podem agregar valor à sua equ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
