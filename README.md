@@ -8,7 +8,7 @@ Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apa
 
 *   **Front-end:** HTML, CSS, JavaScript, React, Bootstrap, Consumo de APIs.
 *   **Back-end:** SQL, Java (em aprofundamento).
-*   **Outras:** Conhecimento em C (adquirindo na faculdade).
+*   **Outras:** Conhecimento em C e C# (adquirindo na faculdade).
 
 💻 **Projetos:**
 *   Desenvolvimento de um aplicativo de Task Manager utilizando React.js, com o objetivo de aplicar os conhecimentos em front-end e back-end.
