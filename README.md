@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor de Software em Ascensão | Focado em Soluções Inovadoras
 
-Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apaixonado por transformar ideias em realidade por meio do código. Atualmente no 3º período, busco oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
+Olá! Me chamo Jefferson Martins, Sou um estudante de Engenharia de Software apaixonado por transformar ideias em realidade por meio do código. Atualmente no 4º período, busco oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
 
 🛠️ **Habilidades:**
 
